@@ -1,7 +1,8 @@
 workflow Start-SourceControl
 {
-#V1.0
+#V2.0
 #Bu benim ilk Source Control Runbook denemem
+#Bu surumde minor degisiklikler yapildi
  
-Write-Output "Azure Automation"
+Write-Output "Azure Automation Soruce Control via Github"
 }
